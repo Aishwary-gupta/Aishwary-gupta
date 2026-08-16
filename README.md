@@ -1,5 +1,23 @@
-# 💫 About Me:
-# Hi there 👋, I'm Aishwary Gupta<br><br>### 🚀 Aspiring Cloud & DevOps Engineer | BCA Student | Full Stack Web Developer<br><br>I'm a BCA student passionate about building scalable applications, automating infrastructure, and learning modern DevOps practices.<br><br>Currently documenting my journey through the **90 Days of DevOps Challenge** while strengthening my skills in Linux, Git, AWS, Shell Scripting, Docker, and CI/CD.<br><br>---<br><br>## 🔭 I’m currently working on<br><br>- 🚀 90 Days of DevOps Challenge<br>- 🌐 Full Stack Web Applications<br>- ☁️ Cloud Computing Projects<br>- 🐧 Linux System Administration<br><br>---<br><br>## 🌱 I’m currently learning<br><br>- AWS Cloud<br>- Docker<br>- Kubernetes<br>- Terraform<br>- Jenkins<br>- GitHub Actions<br>- Bash Scripting<br>- Networking for DevOps<br><br>---<br><br>## 👯 I’m looking to collaborate on<br><br>- Open Source DevOps Projects<br>- Linux Automation<br>- Cloud Infrastructure<br>- Full Stack Web Applications<br><br>---<br><br>## 🤔 I’m looking for help with<br><br>- Kubernetes<br>- Terraform<br>- AWS Production Architecture<br>- DevOps Best Practices<br><br>---<br><br>## 💬 Ask me about<br><br>- Linux<br>- Git & GitHub<br>- Shell Scripting<br>- Next.js<br>- React<br>- Node.js<br>- Cloud Computing<br><br>---<br><br>## 📂 Featured Projects<br><br>- 🚀 90 Days of DevOps<br>- 🌐 VisionaryAArch Studio Website<br>- 📚 DevOps Notes<br>- 🐚 Shell Scripts Collection<br>- 💻 Portfolio Website<br><br>---<br><br>## 🛠 Tech Stack<br><br>### Languages<br><br>- C<br>- C++<br>- JavaScript<br>- Python<br>- SQL<br>- Bash<br><br>### Frontend<br><br>- HTML<br>- CSS<br>- Tailwind CSS<br>- React<br>- Next.js<br><br>### Backend<br><br>- Node.js<br>- Express.js<br><br>### Database<br><br>- MySQL<br>- SQLite<br><br>### DevOps & Cloud<br><br>- Linux<br>- Git<br>- GitHub<br>- GitHub CLI<br>- AWS (Learning)<br>- Docker (Learning)<br><br>### Tools<br><br>- VS Code<br>- Figma<br>- Postman<br>- Git<br><br>---<br><br>## 📫 How to reach me<br><br>📧 Email: your-email@example.com<br><br>💼 LinkedIn:<br>https://linkedin.com/in/YOUR-LINK<br><br>🌐 Portfolio:<br>https://yourportfolio.com<br><br>---<br><br>## ⚡ Fun Fact<br><br>I believe the best way to learn DevOps is by building real projects every single day.
+🚀 **About Me**
+
+I'm a Developer & Aspiring DevOps Engineer from 🇮🇳 India, passionate about building reliable applications, automating workflows, and learning how modern software infrastructure works.
+
+🔭 Currently working on **DevOps, Cloud Computing, CI/CD, Docker, Linux, and Backend Development**
+
+🌱 Currently building my skills through my **#90DaysOfDevOps** journey and hands-on projects
+
+⚙️ Learning and working with **Linux, Git, GitHub, Docker, GitHub Actions, CI/CD, Python, and Cloud Technologies**
+
+☁️ Interested in **Cloud Infrastructure, DevOps, Platform Engineering, Automation, and Cloud-Native Technologies**
+
+👯 Looking to collaborate on **Open Source, DevOps projects, and interesting software engineering projects**
+
+💬 Ask me about **Linux, Git, Docker, GitHub Actions, CI/CD, Python, and DevOps**
+
+🎯 Goal: Become a strong **DevOps/Cloud Engineer** by building real-world, production-oriented projects
+
+⚡ Fun fact: I believe the best way to learn technology is to **build, break, debug, and build again.**
+
 
 
 ## 🌐 Socials:
