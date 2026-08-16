@@ -2,10 +2,10 @@
   
 # Hello Dosto 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Developer+;DevOps+%;8%2B+Years+Experience;Cloud+Architecture+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Developer+;DevOps+;1%2B+Years+Experience;)](https://git.io/typing-svg)
 
 
-
+</div>
 
 
 
@@ -89,7 +89,7 @@ I'm a Developer & Aspiring DevOps Engineer from 🇮🇳 India, passionate about
  <!-- [![Website](https://img.shields.io/badge/Website-trainwithshubham.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.trainwithshubham.com) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwary-gupta-b734a2327/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashisrich.co/)
-[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishwaryg448@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Aishwary-gupta-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishwaryg448@gmail.com)
 
 </div>
 
