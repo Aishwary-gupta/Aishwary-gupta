@@ -1,3 +1,15 @@
+<div align="center">
+  
+# Hello Dosto 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Developer+;DevOps+%;8%2B+Years+Experience;Cloud+Architecture+Expert)](https://git.io/typing-svg)
+
+
+
+
+
+
+
 🚀 **About Me**
 
 I'm a Developer & Aspiring DevOps Engineer from 🇮🇳 India, passionate about building reliable applications, automating workflows, and learning how modern software infrastructure works.
@@ -19,9 +31,6 @@ I'm a Developer & Aspiring DevOps Engineer from 🇮🇳 India, passionate about
 ⚡ Fun fact: I believe the best way to learn technology is to **build, break, debug, and build again.**
 
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashisrich.co) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aishwary-gupta-b734a2327) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Aishwary_Gupt) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aishwary gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aishwaryg448@gmail.com) 
 
 
 ## 🛠️ Tech Stack
@@ -69,7 +78,7 @@ I'm a Developer & Aspiring DevOps Engineer from 🇮🇳 India, passionate about
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LondheShubham153&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aishwary-gupta&theme=tokyo-night&hide_border=true" alt="Activity Graph">
 </div>
 
 
@@ -77,10 +86,10 @@ I'm a Developer & Aspiring DevOps Engineer from 🇮🇳 India, passionate about
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-trainwithshubham.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.trainwithshubham.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamlondhe1996/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shubhamlondhe96/)
-[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trainwithshubham@gmail.com)
+ <!-- [![Website](https://img.shields.io/badge/Website-trainwithshubham.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.trainwithshubham.com) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwary-gupta-b734a2327/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashisrich.co/)
+[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishwaryg448@gmail.com)
 
 </div>
 
@@ -89,9 +98,6 @@ I'm a Developer & Aspiring DevOps Engineer from 🇮🇳 India, passionate about
 <div align="center">
   
 ### 💡 "Building the future, one deployment at a time" 
-
-![Profile Views](https://komarev.com/ghpvc/?username=LondheShubham153&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/LondheShubham153?label=Follow&style=social)](https://github.com/LondheShubham153)
 
 </div>
 
